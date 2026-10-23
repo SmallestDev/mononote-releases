@@ -15,16 +15,14 @@ When a new version is released, the apps check for updates when launched and dow
 ## Installation
 ### Windows
 1. Download `Mononote-Setup-<version>.exe`
-2. Run it. Mononote installs for your account only (no administrator rights needed) and adds Desktop and Start menu shortcuts.
-3. To keep it on the taskbar, right-click the Desktop shortcut and choose "Pin to taskbar" (on Windows 11: "Show more options" → "Pin to taskbar").
+2. Run it. Mononote installs for your account only (no administrator rights needed) and adds shortcuts to a "My Apps" folder on the Desktop and to the Start menu.
+3. To keep it on the taskbar, right-click the shortcut in Desktop → My Apps and choose "Pin to taskbar" (on Windows 11: "Show more options" → "Pin to taskbar").
 
 > Windows may show "Windows protected your PC" because the installer isn't signed. Choose **More info** → **Run anyway**.
 
 To uninstall, open Settings → Apps → Mononote. Your library is kept, so reinstalling picks up where you left off.
 
 `Mononote-windows-<version>.zip` is used by the automatic updater. You don't need to download it.
-
-`Cyanote-windows-<version>.zip` and `Cyanote-android-<version>.apk` are copies for installs from before the app was renamed (it used to be called Cyanote), so they can update to Mononote. You don't need them.
 
 ### Android
 1. Download `Mononote-android-<version>.apk` on your phone
